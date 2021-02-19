@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-"Simple Calculator" é um projeto desenvolvido em HTML, CSS e JavaScript. Trata-se de uma calculadora básica e funcional. Criada em ambiente web.
+"Simple Calculator" é um projeto desenvolvido em HTML, CSS e JavaScript. Trata-se de uma calculadora básica e funcional que aceita tanto entradas através do teclado quanto do mouse.
 
 ## Layout
 ![Demonstração 1](https://i.imgur.com/7RamCXe.png?1)
