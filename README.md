@@ -15,9 +15,10 @@
 - JavaScript
 
 # Como executar o projeto?
+## 1° Opcão: Link
+https://pedromiguelsbs.github.io/simple_calculator/
 
-## Front end web
-
+## 2° Opção: Executar localmente
 ```bash
 # 1°) Clone o repositório:
 git clone https://github.com/pedromiguelsbs/simple_calculator
